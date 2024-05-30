@@ -1,0 +1,3 @@
+-You need to download the ST Link-Utility tool to be able to use the accompanying options to download the executable file to the desired board.
+Link : https://www.st.com/en/development-tools/stsw-link004.html#tools-software
+ -To be able to download the .hex file to the board, you need to point to the path containing the ST-LINK_CLI.exe file and use the -p -rst options to configure the chip address to load.
